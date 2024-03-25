@@ -18,3 +18,7 @@ C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\bin\Debug\EntityFrame
 C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\obj\Debug\Ejercicio-Rentas.exe
 C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\obj\Debug\Ejercicio-Rentas.pdb
+C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\obj\Debug\Ejercicio_Rentas.MenuPrincipal.resources
+C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\obj\Debug\Ejercicio_Rentas.Pclientes.resources
+C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\obj\Debug\Ejercicio_Rentas.Ppeliculas.resources
+C:\Users\Braya\Desktop\Ejercicio semana 9\Ejercicio-Rentas\obj\Debug\Ejercicio_Rentas.PRentas.resources

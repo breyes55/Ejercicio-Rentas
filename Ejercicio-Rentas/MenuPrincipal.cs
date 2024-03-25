@@ -16,5 +16,24 @@ namespace Ejercicio_Rentas
         {
             InitializeComponent();
         }
+
+        private void peliculasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ppeliculas Fpelicula = new Ppeliculas();
+            Fpelicula.Show();
+        }
+
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Pclientes Fclientes = new Pclientes();
+            Fclientes.Show();
+        }
+
+        private void rentasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            PRentas Frentas = new PRentas();
+            Frentas.Show();
+
+        }
     }
 }
